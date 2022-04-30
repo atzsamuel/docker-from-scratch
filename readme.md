@@ -6,4 +6,4 @@ This is my Certificate
 
 https://laserants.com/certificates/certificado-1/?course_id=28694&user=3355&direct=3355&cert-nonce=d26b765222
 
-1. [Principal application](./0Aplicacion/readme.md)
+1. [Principal application](./0Aplicacion/)
